@@ -26,8 +26,6 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
         <a href="#">Terms of Use</a> - <a href="#">Privacy Policy</a>
-        {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
       </footer>
     </div>
   )
