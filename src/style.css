@@ -307,7 +307,8 @@ a:focus {
 }
 
 .blog-post header p {
-  font-size: var(--fontSize-2);
+  font-size: .6em;
+  color: gray;
   font-family: Nunito,Avenir,Helvetica,"sans-serif";
 }
 
